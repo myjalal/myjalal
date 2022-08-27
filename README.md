@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.eddine.me](https://www.eddine.me)
 
-- 📄 Know about my experiences [https://www.jalal.dev](https://www.jalal.dev)
+- 📄 More about me at -> [https://www.jalal.dev](https://www.jalal.dev)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -20,4 +20,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=myjalal&show_icons=true&locale=en" alt="myjalal" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=myjalal&" alt="myjalal" /></p>
-
