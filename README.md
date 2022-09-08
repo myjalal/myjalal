@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently studying at [42 Quebec](https://42quebec.com/en/home/)
 
-- 👨‍💻 All of my projects are available at [https://www.eddine.me](https://www.eddine.me)
+- 👨‍💻 All of my projects are available at [https://www.jalal.dev](https://www.jalal.dev)
 
-- 📄 More about me at -> [https://www.jalal.dev](https://www.jalal.dev)
+- 📄 More about me at -> [placeholder](placeholder)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
